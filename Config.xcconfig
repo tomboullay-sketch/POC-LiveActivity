@@ -1,0 +1,7 @@
+// The only file to edit before building on a device.
+
+// Your Apple team ID (Xcode > Settings > Accounts, or developer.apple.com > Membership).
+DEVELOPMENT_TEAM =
+
+// A bundle ID prefix of your own: the app becomes <prefix>.POC-LiveActivity.
+BUNDLE_ID_PREFIX = com.example
